@@ -1,0 +1,1 @@
+# event_company_architecture_kata
