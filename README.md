@@ -1,4 +1,4 @@
-# event_company_architecture_kata
+# Get Gatherly Going! - an Event Company Architecture Kata
 
 This is an Architecture Kata for an Events system, with an exisiting design.
 
