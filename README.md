@@ -21,16 +21,16 @@ that handles invitations, visibility, reminders, and payments. Attendees need a 
 stay updated, and receive notifications across devices.
 
 ### Requirements
-Private events: organiser-controlled access, invitation only.
-Public events: discoverable by anyone near the location or through search.
-Online or in-person: links and integrations for video platforms or links to a physical location.
-Recurring events: support for daily/weekly/monthly schedules.
-Reminders: via email, SMS, or push notifications.
-Payments: organisers can charge for attendance; the platform may handle payment processing and refunds.
-Multi-device access: responsive web and mobile-friendly experience.
+1. Private events: organiser-controlled access, invitation only.  
+2. Public events: discoverable by anyone near the location or through search.  
+3. Online or in-person: links and integrations for video platforms or links to a physical location.  
+4. Recurring events: support for daily/weekly/monthly schedules.  
+5. Reminders: via email, SMS, or push notifications.  
+6. Payments: organisers can charge for attendance; the platform may handle payment processing and refunds.  
+7. Multi-device access: responsive web and mobile-friendly experience.  
 
 
-#### Additional Considerations
+### Additional Considerations
 **Scalability:**
 
 Handle large public events (e.g., festivals with thousands of RSVPs).
